@@ -2,12 +2,13 @@
 
 I like figuring things out and writing about it.
 
-Most of the stuff I do revolves around web development (mostly JavaScript),
+Most of the stuff I do revolves around fullstack development,
 privacy-conscious tools, and making my workflow as clean and efficient as
 possible. I'm a fan of open-source software, simple UIs, and the kind of code
 that feels satisfying to write and maintain.
 
-Right now, I’m deep in the full-stack rabbit hole, slowly moving from frontend
+Stay curious 🧠
+<!-- Right now, I’m deep in the full-stack rabbit hole, slowly moving from frontend
 comfort to backend challenges. I use Git a lot—like, a *lot*—and I even treat
 GitHub like a second brain sometimes. Notes, code, experiments… it all lives here
 somewhere.
@@ -34,9 +35,8 @@ Feel free to explore, fork, or just drop a comment if something resonates.
   [neostandard](https://github.com/neostandard/neostandard/pull/268).
   I actually enjoy writing documentation (kinda underrated, tbh).
 - Currently working on a note-taking app that syncs with GitHub, inspired by my
-  own workflow
+  own workflow -->
 
-Stay curious 🧠
 
 <!-- - Built small tools to scratch my own itch—some are public, some are still
 cooking -->
